@@ -32,10 +32,6 @@ nav: true
 | | *Design, planning, budgeting, and supervision of architectural projects* |
 | | |
 
-<!--| 1997 -- 2001 | **Teching Assistant** @ Universidad de San Carlos de Guatemala (Guatemala) |
-| | *Key words* |
-| | |-->
-
 ---
 
 ## Education
@@ -55,32 +51,6 @@ nav: true
 | | |
 
 ### Short courses
-
-<!--
-| | |
-|-|-|
-| 2021 | **InDesign 2020: Essential Training** |
-| | LinkedIn |
-| | |
-| 2020 | **Revit 2020: Essential Training for Architecture** |
-| | LinkedIn |
-| | |
-| 2016&nbsp;--&nbsp;2016&nbsp;&nbsp; | **Korta vägen** |
-| | Academicum Uppsala / Lidingö Stad |
-| | |
-| year | **Conservation and restructuring of earth architecture** |
-| | Where |
-| | |
-| year | **Environmental Impact Evaluation** |
-| | Where |
-| | |
-| year | **Landscape architecture** |
-| | Where |
-| | |
-| year | **Legal principles for architecture in Guatemala** |
-| | Where |
-| | |
--->
 
 | |
 |-|
@@ -137,22 +107,9 @@ nav: true
 | | Swedish Red Cross |
 | | |
 
-
-<!--| 2007 -- 2008 | **Architecture school delegate** |
-| | Energy Technical Comitee [?] |
-| | |
-| ? -- ? | **Community work** |
-| | Universidad de San Carlos de Guatemala (Guatemala) |
-| | |-->
-
 ---
 
 ## Memberships
-
-<!--| |
-|-|
-| sveriges architecter • Colegio de Arquitectos de Guatemala • Tidningen Trä! |
-| |-->
 
 | |
 |-|

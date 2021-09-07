@@ -18,7 +18,7 @@ category: Architecture
 
 ---
 
-This house was bought by a young couple in 2019. They really liked its size and the neighbourhood, but most of all its location next to the forest at Södra Berget. In 2020, while they were welcoming a new member of the family, they also felt the need for additional space, e.g., for home office, due to the COVID-19 pandemic. At the moment, though, they have no rush with this plan so this proposal might change according to their needs. 
+This house was bought by a young couple in 2019. They really liked its size and the neighbourhood, but most of all its location next to the forest at Södra Berget. In 2020, while they were welcoming a new member of the family, they felt the need for additional space, e.g., for a home office, due to the COVID-19 pandemic. At the moment, though, they have no rush with this plan so this proposal might change according to their needs. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -50,7 +50,7 @@ This house was bought by a young couple in 2019. They really liked its size and 
     Original plan. Left: basement. Centre: ground flood. Right: second flood.
 </div>
 
-New dormers in the existing roof allow the sun to get into the rooms, in addition to providing beautiful views of the forest. The sunroom at the back of the house is upgraded to a new terrace with double glass walls allowing for a cosy covered room with an outdoors feeling. A new room with a private bathroom and storage/wardrobe provides a new flexible space for guests, hobbies or work. This room is located on top of the new covered garage with capacity for up to two cars.
+New dormers in the existing roof allowed the sun to get into the rooms, in addition to providing beautiful views of the forest. The sunroom at the back of the house was upgraded to a new terrace with double glazed walls allowing for a cosy covered room with an outdoors feeling. A new room with a private bathroom and storage/wardrobe provided a new flexible space for guests, hobbies or work. This room was located on top of the new covered garage with capacity for up to two cars.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -79,7 +79,7 @@ New dormers in the existing roof allow the sun to get into the rooms, in additio
     Proposal plan. Left: basement. Centre: ground flood. Right: second flood.
 </div>
 
-This new volume uses similar visual elements to those from the existing house but with a contemporary feeling, using large windows that allow for plenty of light into the rooms. 
+This new addition used similar visual elements to those from the existing house but with a contemporary feeling, using large windows that allow for plenty of light into the rooms.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

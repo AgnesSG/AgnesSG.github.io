@@ -27,9 +27,9 @@ category: Architecture
 
 ### General description
 
-**The place** The intervention area is a part of the Canillas neighbourhood, located in the Hortaleza District in Madrid, Spain. The buildings included in the project were originally designed in the 1950s by a team lead by Luis Cubillo de Arteaga as part of an experimental project to explore the possibilities of social housing in Madrid. 
+**The place** The intervention area is a part of the Canillas neighbourhood, located in the Hortaleza District in Madrid, Spain. The buildings included in the project were originally designed in the 1950s by a team led by Luis Cubillo de Arteaga as part of an experimental project to explore the possibilities of social housing in Madrid. 
 
-Without many green areas, cars took over the neighbourhood, reducing the possibility of social interactions in the area. 
+Without many protected green areas, cars took over the neighbourhood, reducing the possibility of social interactions in the area. 
 
 **The challenge** Analysing the function and energy efficiency of the existing buildings with respect to the local climate and selecting the appropriate technologies, materials and systems to be used in the intervention. Additionally, defining a sustainable urban revitalisation plan for the neighbourhood. 
 
@@ -56,7 +56,7 @@ The bioclimatic strategies used in this proposal were seasonally-dependent: duri
 
 ### Terraced houses (townhouses) 
 
-The original buildings, two-stories high by 3.5 m wide townhouses, were transformed into single-story apartments to make room for accessible housing on the ground floor. Our proposal removed the staircases from the interior of the buildings, allowing for more spacious living areas. New exterior staircases to access the upper apartments were located at the side of the entrance.
+The original buildings, two-stories high by 3.5 m wide townhouses, were transformed into single-story apartments to make room for accessible housing on the ground floor. Our proposal removed the staircases from the interior of the buildings, allowing for more spacious living areas. New exterior staircases to access the upper apartments were located at the side to provide a means of entrance.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -128,13 +128,13 @@ The bioclimatic strategies were defined for the buildings as a whole.
     Four-stories residential bulding revitalization proposal -- typical floor plan.
 </div>
 
-* Insulation of the eastern and western walls to avoid overheating and to keep a stable indoor temperature. 
+* Insulation of the eastern and western walls to avoid overheating and to keep stable indoor temperatures. 
 
-* Creation of “greenhouse spaces” on the southern facade to act as temperature control devices, collecting heat to steer it in or out depending on the season. The existing wall slabs function as shading elements blocking the sun during the summer. 
+* Creation of “greenhouse spaces” on the southern facade to act as temperature control devices, keeping heat in or out depending on the season. The existing wall slabs function as shading elements blocking the sun during the summer. 
 
 * Addition of a green facade on the eastern wall to control the incoming solar radiation by creating an air space that would act as a barrier to heat transfer. 
 
-* Enlargement of the north-facing windows and diminishing of the south-facing windows. All windows are designed with double glass and shutters to allow for cross-ventilation and therefore efficiently controlling the indoor temperature. 
+* Enlargement of the north-facing windows and diminishing of the south-facing windows. All windows are designed with double glazing and shutters to allow for cross-ventilation and therefore efficiently controlling the indoor temperature. 
 
 * Creation of a green (tree) wall on the back of each building to promote wind circulation in the area, thus improving the air quality and comfort level in the apartments.
 
@@ -174,7 +174,7 @@ The existing 11-floor buildings are composed of apartments of somewhat reduced s
     Top: hotel upper floors plan -- rooms. Middle: housing in tall buildings -- floor plan. Bottom: duplex apartments second floor plan.
 </div>
 
-On the ground floor, the project included commercial areas towards the main street, and a nursery school and multipurpose room towards the back of the building. The upper floors were planned to contain full duplex apartments (61 m2), apartments (75 m2), and a low-cost hotel with restaurant/bar. Different access points were planned for the hotel and the apartments with their services. Finally, one entire open floor with abundant vegetation (7th floor) was considered as a semi-open space for the inhabitants of the building.
+On the ground floor, the project included commercial areas towards the main street, a nursery school and a multipurpose room towards the back of the building. The upper floors were planned to contain full duplex apartments (61 m2), apartments (75 m2), and a low-cost hotel with restaurant/bar. Different access points were planned for the hotel and the apartments with their services. Finally, one entire open floor with abundant vegetation (7th floor) was considered as a semi-open space for the inhabitants of the building.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -48,9 +48,9 @@ category: Architecture
 
 The local communities in this area are among the poorest in the country and this project could contribute to improving their economic situation in a sustainable way. 
 
-Local building materials and construction techniques, which are currently at high risk of disappearing, were selected because of their cultural value, in addition to being more appropriate than modern materials with regards to the local climatological and environmental conditions (based on thermal studies). Alternative, low-impact technologies also had to be used since there is no water, drainage, or waste management infrastructure in the area.
+Local building materials and construction techniques, which are currently at high risk of disappearing, were selected because of their cultural value. Additionally, based on thermal studies, they are more appropriate than modern materials with regards to the local climatological and environmental conditions. Alternative, low-impact technologies also had to be used since there is no water, drainage, or waste management infrastructure in the area.
 
-**The proposal** Four places were found to be suitable for touristic activities and were analysed further to determine the most appropriate uses according to their potential and physical capacity. Three places – Puerta del Cielo, Laguna los Ordoñez and La Torre – were designed for sightseeing. Cerro Tuicoj was selected to host a regional ecotourism centre for panoramic observation, education, dining, and lodging services. A low-impact transportation system – horse riding – was promoted for visiting the sites, thus minimising the impact of the touristic activities. For this reason, the proposal includes stables at each of the sites.
+**The proposal** Four places were found to be suitable for tourism and were analysed further to determine the most appropriate uses according to their potential and physical capacity. Three places – Puerta del Cielo, Laguna los Ordoñez and La Torre – were designed for sightseeing. Cerro Tuicoj was selected to host a regional ecotourism centre for panoramic observation, education, dining, and lodging services. A low-impact transportation system – horse riding – was promoted for visiting the sites, thus minimising the impact of tourism. For this reason, the proposal includes stables at each of the sites.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -67,7 +67,7 @@ Local building materials and construction techniques, which are currently at hig
 
 The highest point of the mountain range (4009 m.a.s.l.). 
 
-Composed of a coffee shop, a panoramic viewpoint platform with an interpretation module, parking space, a stable, and hiking trails.
+Comprises a coffee shop, a panoramic viewpoint platform with an interpretation module, parking spaces, a stable, and hiking trails.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -97,7 +97,7 @@ Composed of a coffee shop, a panoramic viewpoint platform with an interpretation
 
 ### Site 2: Laguna los Ordoñez geological and biological viewpoint 
 
-The most fragile site. Composed of observation decks without railing and defined trails to preserve the fragile soil surface and vegetation, an interpretation module, and an area for services containing parking space, a stable, and dry toilets. 
+The most fragile site. Comprises observation decks with no railings, defined trails to preserve the fragile soil surface and vegetation, an interpretation module, and an area for services containing parking spaces, a stable, and dry toilets. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -124,7 +124,7 @@ The most fragile site. Composed of observation decks without railing and defined
 
 ### Site 3: Puerta del Cielo scenic viewpoint 
 
-Two abandoned structures containing partial floors made of stone from an old house are reconditioned to contain panoramic viewpoint platforms with interpretation modules and dry toilets. Accessible by foot or on horseback from the main regional ecotourism centre (ca. 2 km).
+Two abandoned structures containing partial floors made of stone from an old house are reconditioned to contain panoramic viewpoint platforms with an interpretation modules and dry toilets. Accessible by foot or on horseback from the main regional ecotourism centre (ca. 2 km).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -159,7 +159,7 @@ Main site
     Cerro Tuicoj regional ecotourism centre proposal plan view. The structures shown here at located at the summit. The centre consists of an access control point, parking space and a stable located at the lower area. A hiking trail connects both areas.
 </div>
 
-The Cerro Tuicoj regional ecotourism centre is the main unit of the network. The centre consists of a scenic viewpoint area, a lodging area, a collective kitchen, collective sanitation facilities (dry toilets and temazcals – a traditional Maya low heat sweat lodge that is used as a bathing alternative when water is a scarce resource), an administrative area with reception, an information centre and souvenir store, a staff area with service storage, cleaning areas, and a room for one on-duty agent. 
+The Cerro Tuicoj regional ecotourism centre is the main unit of the network. The centre consists of a scenic viewpoint area, a lodging area, a collective kitchen and sanitation facilities (dry toilets and temazcals – a traditional Maya low heat sweat lodge that is used as a bathing alternative when water is scarce), an administrative area with reception, an information centre and souvenir store, a staff area with service storage, cleaning areas, and a room for one on-duty agent. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -170,7 +170,7 @@ The Cerro Tuicoj regional ecotourism centre is the main unit of the network. The
     Cerro Tuicoj regional ecotourism centre proposal perspective view.
 </div>
 
-**Administrative area** The administrative area for both the centre and the network consists of a public space with information and souvenirs, offices for the manager and receptionist/secretary, and a chill area for the staff.  A separate entrance leads to the bedroom for the on-duty agent and a storage area with bins to collect and sort recyclable material to be later transported to the city. The revalorization of local building techniques and materials are of especial importance for this area.
+**Administrative area** The administrative area for both the centre and the network consists of a public space with information and souvenirs, offices for the manager and receptionist/secretary, and a quiet area for the staff.  A separate entrance leads to the bedroom for the on-duty agent and a storage area with bins to collect and sort recyclable material to be later transported to the city. The promotion of local building techniques and materials are of special importance for this area.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -193,7 +193,7 @@ The Cerro Tuicoj regional ecotourism centre is the main unit of the network. The
     Administrative area for the Cerro Tuicoj regional ecotoursim centre. Top: elevation view. Bottom left: perspective view. Bottom centre: floor plan view. Bottom right: cross section.
 </div>
 
-**Lodging area** Collective dorms (with two bunk beds and two single beds each) provide the opportunity to spend several days exploring the area. The building materials and techniques used here are selected to keep warmth inside without requiring any electric equipment. Collective dry toilets and temazcals (traditional Maya steam bath houses) are provided in separate buildings.
+**Lodging area** Collective dorms (with two bunk beds and two single beds in each) provide the opportunity to spend several days exploring the area. The building materials and techniques used here are selected to keep warmth inside without requiring any electric equipment. Collective dry toilets and temazcals (traditional Maya steam bath houses) are provided in separate buildings.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

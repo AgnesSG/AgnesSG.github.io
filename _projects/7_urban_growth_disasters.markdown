@@ -19,7 +19,7 @@ category: Research
 
 ---
 
-**The place** Containing the country’s second largest city and crucial infrastructure, the Samala River catchment has a large socio-economic importance for Guatemala. Each year, a large number of natural disasters producing significant losses are reported in this region and, with a rainy season that lasts 6 months, most of them are related to water. Furthermore, disaster-related losses have been increasing over time in this region.
+**The place** Containing the country’s second largest city and crucial infrastructure, the Samala River catchment has a large socio-economic importance for Guatemala. Each year, a large number of natural disasters associated with significant losses are reported in this region and, with a rainy season that lasts 6 months, most of them are related to water. Furthermore, disaster-related losses have been increasing over time in this region.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,13 +30,13 @@ category: Research
     The Samala River catchment, its location and main physical features (Copyright: the authors 2015).
 </div>
 
-**Aim** Understanding what are the drivers behind the increasing disaster-related losses. To this purpose, we compared the trends in disaster losses with (i) the frequency of wet spells and (ii) urban growth in the region. This way, we could gain understanding of which causes – physical or social – were more likely to be the cause of these increased losses. 
+**Aim** Understanding the drivers behind the increasing disaster-related losses by comparing the trends in disaster losses with (i) the frequency of wet spells and (ii) urban growth in the region. This way, we could gain understanding of which causes – physical or social – were more likely to be the cause of significant losses. 
 
-**The challenge** The available data on population and disasters for this area was scarce both on quantity, resolution, and time span. Additionally, the implementation of a long-term study on the causes of disaster-related losses was unfeasible. Consequently, we had to rely on alternative methods to obtain the necessary information. 
+**The challenge** The available data on population and disasters for this area was scarce in terms of quantity, resolution, and time span. Additionally, the implementation of a long-term study on the causes of disaster-related losses was unfeasible. Consequently, alternative methods were relied upon to obtain the necessary information. 
 
 **The study** We used the *Desinventar* Disaster Information Management System database to study the trends in the number of fatalities caused by water-related disasters in the Samala River catchment. 
 
-Additionally, we used the Guatemalan national meteorological records to study the trends in precipitation amounts in the area. We found out that, even if the average daily rainfall amounts in the area have not increased significantly over time, wet spells have become more frequent. 
+Additionally, we used the Guatemalan national meteorological records to study the trends in precipitation amounts in the area. We found out that, even if the average daily rainfall amounts in the area had not increased significantly over time, wet spells had become more frequent. 
 
 Regarding urban growth, we used remotely sensed maps of nightlights which are produced by NASA at 1 km resolution on a yearly basis. These maps provide an indication of where people are settled: the brighter the area, the more densely populated it is. This way, we could get an estimation of urban growth with a higher temporal resolution than if using census data, which are produced every 10 years.
 
@@ -64,7 +64,7 @@ Regarding urban growth, we used remotely sensed maps of nightlights which are pr
     Satellite images of nightlights in the Samala River catchment -- selected years (Copyright of the original images: NASA).
 </div>
 
-**Results** Our analyses showed that losses from water-related disasters have indeed increased over time. This increase can be explained by (i) an increased number of days with saturated soil conditions from wet spells and (ii) an increased human exposure to hazards (as observed by increasingly brighter areas over time in areas close to rivers). 
+**Results** Our analyses showed that losses from water-related disasters had indeed increased over time. This increase can be explained by (i) an increased number of days with saturated soil conditions from wet spells and (ii) an increased human exposure to hazards (as observed by increasingly brighter areas over time in areas close to rivers). 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -75,4 +75,4 @@ Regarding urban growth, we used remotely sensed maps of nightlights which are pr
     Trends in disaster impact, wet spells and urban growth from 1981 to 2011, represented by the respective proxies in the study (Copyright: the authors 2015).
 </div>
 
-Since it is not possible to modify the precipitation amounts and patterns in the region, the most sensible course of action to avoid unnecessary exposure to natural disasters is to revisit the location and planning of cities. Taking into account factors such as proximity to rivers, floodplains, preferential courses for debris flows, among other simple measures would go a long way in reducing vulnerability and disaster-related impacts. 
+Since it is not possible to modify the precipitation amounts and patterns in the region, the most sensible course of action to avoid unnecessary exposure to natural disasters is to revisit the location and planning of cities. Taking into account factors such as proximity to rivers, floodplains, preferential routes for debris flows, among other simple measures would go a long way in reducing vulnerability and disaster-related impacts. 

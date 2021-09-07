@@ -33,7 +33,7 @@ category: Architecture
     San Rafael Hospital. Left: north facade (classified building). Right: south facade.
 </div>
 
-**The challenge** Although small, the hospital needed several additional services to complete its functions, such as full operation rooms and delivery rooms, and it was therefore in need of thorough revision, remodelling and expansion. At the same time, this intervention had to meet the regulations and limitations imposed by the office for the protection of the city’s historical and cultural heritage.
+**The challenge** Although small, the hospital needed several additional services to complete its functions, such as full operation rooms and delivery rooms, and it was therefore in need of thorough revision, remodelling and expansion. At the same time, this intervention had to meet the regulations and limitations imposed by the office for the protection of the city’s history and cultural heritage.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -53,7 +53,7 @@ category: Architecture
     Longitudinal section -- original state.
 </div>
 
-**The proposal** The hospital was analysed as a whole system, including both buildings. All the essential functions were reorganized and a new 4-stories high building substituting the south building was proposed. The only element preserved from the old building was its facade (due to legal limitations), so the elements of the new building followed its original design and materials. This new building would have enough space for most of the required hospital services.
+**The proposal** The hospital was analysed as a whole system, including both buildings. All the essential functions were reorganized and a new 4-story high building substituting the south building was proposed. As the only element preserved from the old building was its facade (due to legal limitations), the elements of the new building followed its original design and materials. This new building would have enough space for most of the required hospital services.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
