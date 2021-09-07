@@ -41,7 +41,7 @@ nav: true
 | 2009&nbsp;--&nbsp;2015&nbsp;&nbsp; | **PhD, Physical Geography** @ Uppsala University (Sweden) |
 | | *Thesis: Geographical Distribution of Disasters Caused by Natural Hazards in Data-scarce Areas: Methodological exploration on the Samala River catchment, Guatemala* |
 | | |
-| 2006 | **MSc, [Natural environment and bioclimatic arquitecture](https://www.mayab.com/){:target="_blank"}** @ Universidad Politécnica de Madrid (Spain) |
+| 2006 | **MSc, [Natural environment and bioclimatic arquitecture](https://www.mayab.com/mayab-presencial/){:target="_blank"}** @ Universidad Politécnica de Madrid (Spain) |
 | | Sustainable architecture, passive solar building design, ecological design, low-energy housing |
 | | *Thesis: Pautas de actuación para la edificación en la meseta alta de la Sierra de los Cuchumatanes, Huehuetenango, Guatemala [Construction best practices in the high plateau of the Cuchumatanes mountains, Guatemala]* |
 | | |
