@@ -88,7 +88,7 @@ nav: true
 | | Centre of Natural Hazards and Disaster Science, [CNDS](https://www.cnds.se/){:target="_blank"} (Sweden) |
 | | |
 | 2006 | **Postgraduate studies scholarship** |
-| | Agencia Espanola para la Cooperación Internacional y Desarrollo ([MAEC-AECID](https://www.aecid.es/ES/becas-y-lectorados/convocatorias-maec-aecid){:target="_blank"}) |
+| | Spanish Agency for International Development Cooperation ([MAEC-AECID](hhttps://www.aecid.es/EN/grants-and-assistantships){:target="_blank"}) |
 | | |
 
 ---
