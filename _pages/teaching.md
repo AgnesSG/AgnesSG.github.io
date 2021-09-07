@@ -20,7 +20,7 @@ nav: true
 | 2002 -- 2008 | **Architectural Design 1** @ Universidad de San Carlos de Guatemala (Guatemala) |
 | | Course coordination,  lecturing |
 | | |
-| 2002 -- 2008 | **Design principles** @ Universidad de San Carlos de Guatemala (Guatemala) |
+| 2002 -- 2008 | **Design fundamentals** @ Universidad de San Carlos de Guatemala (Guatemala) |
 | | Lecturing |
 | | |
 | 2002 -- 2004 | **Geometrical Drawing** @ Universidad de San Carlos de Guatemala (Guatemala) |
