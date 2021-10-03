@@ -13,9 +13,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Why? 
-
-Because I love to create new things. 
+I love to create new things. 
 
 Not for creation's sake, but to fulfil people’s needs, wishes, and dreams. When I create something, I love to see the final product but also the learning, experimentation and creative process behind it. Architecture is, to me, a way of understanding and shaping the human world; an opportunity to contribute to the development of our today and our tomorrow. And it is a great responsibility too. 
 
