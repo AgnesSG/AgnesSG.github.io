@@ -28,7 +28,7 @@ nav: true
 | 2002 -- 2008 | **Lecturer** @ Universidad de San Carlos de Guatemala (Guatemala) |
 | | *Design fundamentals, descriptive geometry, technical and hand drawing, physics, mathematics, and studio project courses. Pedagogical planning and evaluation.* |
 | | |
-| 2001 -- 2002 | **Architecture department manager** @ Constructora ADYCO (Guatemala) |
+| 2001 -- 2002 | **Architect** @ Constructora ADYCO (Guatemala) |
 | | *Design, planning, budgeting, and supervision of architectural projects* |
 | | |
 
