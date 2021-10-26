@@ -5,7 +5,10 @@ title: CV
 nav: true
 ---
 
-<a target="_blank" href="/assets/pdf/AgnesSoto_CV.pdf" class="button" title="Download CV as PDF">Download my CV (in Swedish)</a>
+<div class="inline">
+    <a target="_blank" href="/assets/pdf/AgnesSoto_WorkSample.pdf" class="button" title="Download work sample as PDF">Download work sample</a>
+    <a target="_blank" href="/assets/pdf/AgnesSoto_CV.pdf" class="button" title="Download CV as PDF">Download CV (in Swedish)</a>
+</div>
 
 &nbsp;
 

@@ -8,7 +8,10 @@ display_categories: [Architecture, Research]
 horizontal: false
 ---
 
-<a target="_blank" href="/assets/pdf/AgnesSoto_Portfolio.pdf" class="button" title="Download portfolio as PDF">Download my portfolio</a>
+<div class="inline">
+    <a target="_blank" href="/assets/pdf/AgnesSoto_WorkSample.pdf" class="button" title="Download work sample as PDF">Download work sample</a>
+    <a target="_blank" href="/assets/pdf/AgnesSoto_Portfolio.pdf" class="button" title="Download portfolio as PDF">Download portfolio</a>
+</div>
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
