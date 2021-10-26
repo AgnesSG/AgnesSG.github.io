@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Urban development in Lidingö centre
-description: Lidingö, Sweden
+description: Lidingö, Sweden (2017)
 img: /assets/img/urban_development_lidingo/71_Idun_volume.jpg
 importance: 1
 category: Architecture

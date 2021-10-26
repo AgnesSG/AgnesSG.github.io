@@ -1,7 +1,7 @@
 ---
 layout: page
 title: House expansion
-description: Sundsvall, Sweden
+description: Sundsvall, Sweden (2021)
 img: /assets/img/house_expansion_sundsvall/84_Sundsvall_proposalback.jpg
 importance: 1
 category: Architecture

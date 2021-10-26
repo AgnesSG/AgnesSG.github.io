@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Connecting urban growth with natural disasters
-description: Samala River catchment, Guatemala
+description: Samala River catchment, Guatemala (2015)
 img: /assets/img/urban_growth_disasters/99_Connecting_nightlights.jpg
 importance: 1
 category: Research

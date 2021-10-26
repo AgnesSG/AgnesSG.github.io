@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hospital expansion in a historical city
-description: San Rafael Hospital, Quetzaltentango, Guatemala
+description: San Rafael Hospital, Quetzaltentango, Guatemala (2008)
 img: /assets/img/hospital_expansion_xela/51_hosp_sect.jpg
 importance: 1
 category: Architecture

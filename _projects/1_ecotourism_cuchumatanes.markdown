@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Los Cuchumatanes ecotourism network
-description: Sierra de los Cuchumatanes, Huehuetengango, Guatemala
+description: Sierra de los Cuchumatanes, Huehuetengango, Guatemala (2001)
 img: /assets/img/ecotourism_cuchumatanes/11_Cuchu_LagunaOrdonez_HR.jpg
 importance: 1
 category: Architecture

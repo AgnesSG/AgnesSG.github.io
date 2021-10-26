@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bioclimatic urban rehabilitation
-description: Canillas neighbourhood, Madrid, Spain
+description: Canillas neighbourhood, Madrid, Spain (2006)
 img: /assets/img/urban_revitalization_madrid/30_canillas_generalplan.jpg
 importance: 1
 category: Architecture

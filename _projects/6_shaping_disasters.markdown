@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shaping natural disasters - landscape vs people
-description: Samala River catchment, Guatemala
+description: Samala River catchment, Guatemala (2015)
 img: /assets/img/shaping_disasters/91_Shaping_Catchment.jpg
 importance: 1
 category: Research
